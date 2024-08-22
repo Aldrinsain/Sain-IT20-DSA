@@ -1,0 +1,3 @@
+name:aldrin piloton sain
+course : IT20A
+Activity: basics of Git and Github
